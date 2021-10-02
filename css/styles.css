@@ -1,0 +1,85 @@
+/* -------------------------------------------------------------------------- */
+/* General */
+body {
+  font-family: "Montserrat-Bold";
+  background: #FBFCFC !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 3rem;
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  font-family: "Montserrat";
+  color: #4D5656;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Sections */
+.colored-section {
+  background-color: #FBFCFC;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Navbar */
+.navbar-brand {
+  font-size: 20px !important;
+  margin: 1px;
+}
+
+.navbar-nav {
+  font-size: 18px !important;
+  margin: 1px;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Title Section */
+#title {
+  background-color: #FBFCFC;
+  color: #000000;
+  text-align: center;
+}
+
+#title .container-fluid {
+  padding: 2% 0%;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Abstract Section */
+#abstract {
+  background-color: #FBFCFC;
+  color: #000000;
+  text-align: justify;
+}
+
+#abstract .container-fluid {
+  padding: 0% 20%;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Footer Section */
+#footer {
+  background-color: #FBFCFC;
+  color: #000000;
+}
+
+#footer .container-fluid {
+  padding: 5% 0%;
+}
+
+#footer .reference {
+  font-family: "Montserrat";
+  font-size: 10px;
+  text-align: center;
+  color: #4D5656;
+}
+
+#footer .copyright {
+  font-family: "Montserrat";
+  font-size: 14px !important;
+  text-align: center;
+  color: #4D5656;
+}
+
+/* -------------------------------------------------------------------------- */

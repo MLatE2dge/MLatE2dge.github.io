@@ -22,3 +22,4 @@ edit_uri: ""
 
 nav:
   - Home: 'index.md'
+  - About: 'about.md'

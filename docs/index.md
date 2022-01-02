@@ -1,6 +1,6 @@
 # ML@E<sup>2</sup>dge
 
-<div style="text-align: justify">One of the challenges is real-time and energy-efficient information extraction and processing at the edge by using AI. There is a recent trend to implement machine learning (ML) on end-point devices. These end-point devices are located on the extreme edge: the border between the analog, physical world, and the digital world. Such a device consists of one or more sensors and a resource-constrained embedded device, a device with a limited amount of memory, computing power and power consumption. Today's challenge is to develop accurate, energy-efficient machine learning models. This can be achieved by tiny machine learning, a sub-field in the machine learning.</div>
+<div style="text-align: justify">One of the challenges is real-time and energy-efficient information extraction and processing at the edge by using Artificial Intelligence (AI). There is a recent trend to implement machine learning (ML) on end-point devices. These end-point devices are located on the extreme edge: the border between the analog, physical world, and the digital world. Such a device consists of one or more sensors and a resource-constrained embedded device, a device with a limited amount of memory, computing power and power consumption. Today's challenge is to the develop accurate, energy-efficient machine learning models that can be deployed on end-point devices. This can be achieved by tiny machine learning, a sub-field in the machine learning.</div>
 
 <br>
 

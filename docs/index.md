@@ -25,8 +25,9 @@
   <li>Comate Engineering & Design</li> 
   <li>VR Base</li> 
   <li>Hersenletsel Liga</li> 
-  <li>Centre of Expertise The Cycle of Care -living for care, caring for life, Karel de Grote University of Applied Sciences and Arts</li> 
+  <li>Centre of Expertise The Cycle of Care - living for care, caring for life, Karel de Grote University of Applied Sciences and Arts</li> 
 </ul> 
 </div><br>
+
 
 <br>

@@ -8,11 +8,11 @@
 
 <br>
 
-<div style="text-align: justify"> <b>Machine Learning at the Extreme Edge (ML@E2dge) looks at how a developer can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) end-point devices and systems</b>. Starting from a case study, a machine learning model is developed, optimized and deployed. In the project, we limit ourselves to a supervised machine learning regression problem. The selected end-point device is a Cortex®-M4 ARM® microcontroller (nRF52840, Nordic Semiconductor), in combination with an Inertial Measurement Unit (IMU) sensor. In the project open-source software frameworks such as scikit-learn, TensorFlow and Keras are used, in combination with Edge Impulse Studio. For experiment tracking, metrics, ..., and version tracking MLOps tools like for example ML<em>flow</em> or Weights and Biases are explored.</div>
+<div style="text-align: justify"> <b>Machine Learning at the Extreme Edge (ML@E2dge) looks at how a developer can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) end-point devices and systems</b>. Starting from a case study, a machine learning model is developed, optimized and deployed. In the project, we limit ourselves to a supervised machine learning regression problem. The selected end-point device is a Cortex®-M4 ARM® microcontroller (nRF52840, Nordic Semiconductor), in combination with an Inertial Measurement Unit (IMU) sensors (ex. XSens MTi-3 and Invensense ICM-20948). In the project open-source software frameworks such as scikit-learn, TensorFlow and Keras are used, in combination with Edge Impulse Studio. For experiment tracking, the MLOps tool Weights and Biases  is used.</div>
 
 <div style="text-align: justify"> The outcome of the project is a guideline (a workflow) and (open source) software tools, that developers can use and apply in the design of the next generation of embedded intelligent end-point devices and systems.</div><br>
 
-## (Scientific) Supervision Group
+## Project Supervisory Group
 
 <div style="text-align: justify">
 <ul>
@@ -28,6 +28,6 @@
   <li>Centre of Expertise The Cycle of Care - living for care, caring for life, Karel de Grote University of Applied Sciences and Arts</li> 
 </ul> 
 </div><br>
-
+*The Supervisory group operates as a soundboard towards the implementation possibilities of the Project Results.*
 
 <br>

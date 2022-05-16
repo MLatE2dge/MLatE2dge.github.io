@@ -14,6 +14,8 @@
 
 ## Project Supervisory Group
 
+*The supervisory group operates as a soundboard towards the implementation possibilities of the project results.*
+
 <div style="text-align: justify">
 <ul>
   <li>Zorginstelling Heder</li>
@@ -28,6 +30,5 @@
   <li>Centre of Expertise The Cycle of Care - living for care, caring for life, Karel de Grote University of Applied Sciences and Arts</li> 
 </ul> 
 </div><br>
-*The Supervisory group operates as a soundboard towards the implementation possibilities of the Project Results.*
 
 <br>

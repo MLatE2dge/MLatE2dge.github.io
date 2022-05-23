@@ -21,13 +21,13 @@
   <li>Zorginstelling Heder</li>
   <li>Centre for Health and Technology, University of Antwerp</li>
   <li>Capetech</li>
-  <li>Faculty of Rehabilitation Science, research group Reval, Hasselt University</li>
-  <li>Departement Rehabilitation Science, research group Movant, University of Antwerp</li>  
+  <li>Faculty of Rehabilitation Sciences, Rehabilitation Research Group (Reval), Hasselt University</li>
+  <li>Departement of Rehabilitation Sciences and Physiotherapy Research group MOVANT, University of Antwerp</li>  
   <li>Edge Impulse Inc.</li>
   <li>Comate Engineering & Design</li> 
   <li>VR Base</li> 
   <li>Hersenletsel Liga</li> 
-  <li>Centre of Expertise The Cycle of Care - living for care, caring for life, Karel de Grote University of Applied Sciences and Arts</li> 
+  <li>Centre of Expertise The Cycle of Care, Karel de Grote University of Applied Sciences and Arts</li> 
 </ul> 
 </div><br>
 

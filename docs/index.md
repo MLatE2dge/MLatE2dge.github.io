@@ -8,9 +8,11 @@
 
 <br>
 
-<div style="text-align: justify"> <b>Machine Learning at the Extreme Edge (ML@E2dge) looks at how a developer can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) end-point devices and systems</b>. Starting from a case study, a machine learning model is developed, optimized and deployed. In the project, we limit ourselves to a supervised machine learning regression problem. The selected end-point device is a Cortex®-M4 ARM® microcontroller (nRF52840, Nordic Semiconductor), in combination with an Inertial Measurement Unit (IMU) sensors (ex. XSens MTi-3 and Invensense ICM-20948). In the project open-source software frameworks such as scikit-learn, TensorFlow and Keras are used, in combination with Edge Impulse Studio. For experiment tracking, the MLOps tool Weights and Biases  is used.</div>
+<div style="text-align: justify"> <b>Machine Learning at the Extreme Edge (ML@E2dge) looks at how a developer can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) end-point devices and systems</b>. Starting from a case study (estimation of spatio-temporal parameters), a machine learning model is developed, optimized and deployed. In the project, we limit ourselves to a supervised machine learning regression problem. In the project open-source software frameworks such as scikit-learn, TensorFlow and Keras are used, in combination with Edge Impulse Studio. For experiment tracking, the MLOps tool Weights and Biases  is used.</div>
 
-<div style="text-align: justify"> The outcome of the project is a guideline (a workflow) and (open source) software tools, that developers can use and apply in the design of the next generation of embedded intelligent end-point devices and systems.</div><br>
+<div style="text-align: justify"> The outcome of the project is a data- and machine learning pipeline (workflow) that illustrates how to solve a embedded machine learning problem.</div>
+
+
 
 ## Project Supervisory Group
 
@@ -20,15 +22,16 @@
 <ul>
   <li>Zorginstelling Heder</li>
   <li>Centre for Health and Technology, University of Antwerp</li>
-  <li>Capetech</li>
+  <li>Capetech BVBA</li>
   <li>Faculty of Rehabilitation Sciences, Rehabilitation Research Group (Reval), Hasselt University</li>
   <li>Departement of Rehabilitation Sciences and Physiotherapy Research group MOVANT, University of Antwerp</li>  
   <li>Edge Impulse Inc.</li>
-  <li>Comate Engineering & Design</li> 
+  <li>Comate Engineering & Design BVBA</li> 
   <li>VR Base</li> 
   <li>Hersenletsel Liga</li> 
   <li>Centre of Expertise The Cycle of Care, Karel de Grote University of Applied Sciences and Arts</li> 
 </ul> 
 </div><br>
+
 
 <br>

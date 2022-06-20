@@ -4,7 +4,7 @@
 
 <br>
 
-![workflow](./img/workflow.png)
+![workflow](./img/data-ML-pipeline.png)
 
 <br>
 
